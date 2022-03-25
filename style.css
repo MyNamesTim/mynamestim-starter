@@ -7,7 +7,7 @@ h4 {
     font-style: italic;
     font-size: larger;
 }
-a  {
+#resourceHype {
     color: skyblue;
     border-style: groove;
     border-top-color: skyblue;
@@ -16,4 +16,9 @@ a  {
     border-right-color: rgb(255, 255, 64);
     font-size: larger;
     border-spacing: 25cm;
+}
+#kanye {
+    color:red;
+    border-style: groove;
+    border-color: darkred;
 }
